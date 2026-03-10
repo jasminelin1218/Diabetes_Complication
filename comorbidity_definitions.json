@@ -1,0 +1,309 @@
+{
+  "robust_comorbidities": {
+    "IHD": {
+      "icd9": [
+        "414",
+        "412"
+      ],
+      "icd10": [
+        "I25"
+      ]
+    },
+    "Atrial Fibrillation": {
+      "icd9": [
+        "4273"
+      ],
+      "icd10": [
+        "I48"
+      ]
+    },
+    "CHF": {
+      "icd9": [
+        "428"
+      ],
+      "icd10": [
+        "I50"
+      ]
+    },
+    "CKD": {
+      "icd9": [
+        "585"
+      ],
+      "icd10": [
+        "N18",
+        "E112"
+      ]
+    },
+    "AKI": {
+      "icd9": [
+        "584"
+      ],
+      "icd10": [
+        "N17"
+      ]
+    },
+    "Liver Fibrosis/Cirrhosis": {
+      "icd9": [
+        "5715",
+        "5716",
+        "5712"
+      ],
+      "icd10": [
+        "K74"
+      ]
+    },
+    "MASLD/MASH": {
+      "icd9": [
+        "5718"
+      ],
+      "icd10": [
+        "K760",
+        "K758"
+      ]
+    },
+    "HCC": {
+      "icd9": [
+        "1550",
+        "1551",
+        "1552"
+      ],
+      "icd10": [
+        "C22"
+      ]
+    },
+    "Non-DM Neuropathy": {
+      "icd9": [
+        "357"
+      ],
+      "icd10": [
+        "G60",
+        "G61",
+        "G62",
+        "G63"
+      ]
+    },
+    "DPN": {
+      "icd9": [
+        "2506",
+        "3572"
+      ],
+      "icd10": [
+        "E114",
+        "G632"
+      ]
+    },
+    "Diabetic Retinopathy": {
+      "icd9": [
+        "3620",
+        "2505"
+      ],
+      "icd10": [
+        "H36",
+        "H35",
+        "E113"
+      ]
+    },
+    "Glaucoma": {
+      "icd9": [
+        "365"
+      ],
+      "icd10": [
+        "H40"
+      ]
+    },
+    "Cataract": {
+      "icd9": [
+        "3661"
+      ],
+      "icd10": [
+        "H25"
+      ]
+    },
+    "Obesity": {
+      "icd9": [
+        "2780"
+      ],
+      "icd10": [
+        "E66"
+      ]
+    },
+    "Hypothyroidism": {
+      "icd9": [
+        "244"
+      ],
+      "icd10": [
+        "E03"
+      ]
+    },
+    "Osteoporosis": {
+      "icd9": [
+        "7330"
+      ],
+      "icd10": [
+        "M81",
+        "M80"
+      ]
+    },
+    "Osteoarthritis": {
+      "icd9": [
+        "715"
+      ],
+      "icd10": [
+        "M15",
+        "M16",
+        "M17",
+        "M18",
+        "M19"
+      ]
+    },
+    "Arthropathy": {
+      "icd9": [
+        "716"
+      ],
+      "icd10": [
+        "M12"
+      ]
+    },
+    "Cervical Spondylosis": {
+      "icd9": [
+        "7210",
+        "7211"
+      ],
+      "icd10": [
+        "M4781",
+        "M4712",
+        "M4722"
+      ]
+    },
+    "Anxiety": {
+      "icd9": [
+        "3000"
+      ],
+      "icd10": [
+        "F40",
+        "F41"
+      ]
+    },
+    "Depression": {
+      "icd9": [
+        "2962",
+        "2963",
+        "311"
+      ],
+      "icd10": [
+        "F32",
+        "F33"
+      ]
+    },
+    "Cancer": {
+      "icd9": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "200",
+        "201",
+        "202",
+        "203",
+        "204",
+        "205",
+        "206",
+        "207",
+        "208"
+      ],
+      "icd10": [
+        "C"
+      ]
+    },
+    "Psoriasis": {
+      "icd9": [
+        "696"
+      ],
+      "icd10": [
+        "L40"
+      ]
+    },
+    "Eczema": {
+      "icd9": [
+        "692"
+      ],
+      "icd10": [
+        "L30"
+      ]
+    },
+    "IBS": {
+      "icd9": [
+        "5641"
+      ],
+      "icd10": [
+        "K58"
+      ]
+    },
+    "Deafness": {
+      "icd9": [
+        "389"
+      ],
+      "icd10": [
+        "H90",
+        "H91"
+      ]
+    }
+  },
+  "not_robust_as_features": {
+    "Hypertension": {
+      "icd9": [
+        "401"
+      ],
+      "icd10": [
+        "I10"
+      ]
+    },
+    "Dyslipidemia": {
+      "icd9": [
+        "272"
+      ],
+      "icd10": [
+        "E78"
+      ]
+    },
+    "Angina Pectoris": {
+      "icd9": [
+        "413"
+      ],
+      "icd10": [
+        "I20"
+      ]
+    },
+    "Chronic Bronchitis": {
+      "icd9": [
+        "491"
+      ],
+      "icd10": [
+        "J41",
+        "J42"
+      ]
+    }
+  },
+  "covariates": [
+    "age",
+    "sex",
+    "n_t2dm_admissions",
+    "max_pre_dm_hba1c",
+    "max_pre_dm_glucose",
+    "has_death",
+    "has_hypertension",
+    "has_dyslipidemia",
+    "has_angina",
+    "has_chronic_bronchitis"
+  ],
+  "time_windows_years": [
+    0.25,
+    0.5,
+    1.0,
+    3.0,
+    5.0
+  ],
+  "washout_days": 14
+}
