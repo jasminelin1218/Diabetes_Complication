@@ -1,0 +1,1780 @@
+{
+  "IHD": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.704,
+      "f1_test": 0.0913
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.6851,
+      "f1_test": 0.1386
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.6801,
+      "f1_test": 0.0893
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.6491,
+      "f1_test": 0.1017
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.6763,
+      "f1_test": 0.1094
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.6857,
+      "f1_test": 0.1667
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.6789,
+      "f1_test": 0.131
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.6255,
+      "f1_test": 0.1395
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.6916,
+      "f1_test": 0.1767
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.6868,
+      "f1_test": 0.2122
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.6839,
+      "f1_test": 0.1739
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.6502,
+      "f1_test": 0.1825
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.7111,
+      "f1_test": 0.2711
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.7105,
+      "f1_test": 0.3015
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.7297,
+      "f1_test": 0.3009
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.7204,
+      "f1_test": 0.2821
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7037,
+      "f1_test": 0.3085
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.7068,
+      "f1_test": 0.3456
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.7267,
+      "f1_test": 0.3376
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7277,
+      "f1_test": 0.332
+    }
+  },
+  "Atrial Fibrillation": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.591,
+      "f1_test": 0.0684
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.5869,
+      "f1_test": 0.0583
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.6408,
+      "f1_test": 0.0956
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.6168,
+      "f1_test": 0.0784
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.6441,
+      "f1_test": 0.1047
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.6032,
+      "f1_test": 0.0901
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.6549,
+      "f1_test": 0.1371
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.6538,
+      "f1_test": 0.125
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.6661,
+      "f1_test": 0.1439
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.6043,
+      "f1_test": 0.1107
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.6734,
+      "f1_test": 0.1429
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.669,
+      "f1_test": 0.1513
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.7091,
+      "f1_test": 0.2589
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.6747,
+      "f1_test": 0.2455
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.7217,
+      "f1_test": 0.2714
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.7006,
+      "f1_test": 0.2721
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7289,
+      "f1_test": 0.3071
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.7009,
+      "f1_test": 0.2986
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.7385,
+      "f1_test": 0.3226
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7213,
+      "f1_test": 0.3138
+    }
+  },
+  "CHF": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.6079,
+      "f1_test": 0.0769
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.7331,
+      "f1_test": 0.0625
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.6362,
+      "f1_test": 0.0952
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.598,
+      "f1_test": 0.1176
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.7185,
+      "f1_test": 0.0777
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.7798,
+      "f1_test": 0.1395
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.7505,
+      "f1_test": 0.1204
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.7225,
+      "f1_test": 0.1228
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.7007,
+      "f1_test": 0.1115
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.7034,
+      "f1_test": 0.1434
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.7166,
+      "f1_test": 0.123
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.6813,
+      "f1_test": 0.1186
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.749,
+      "f1_test": 0.2369
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.7426,
+      "f1_test": 0.2422
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.7643,
+      "f1_test": 0.2415
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.7496,
+      "f1_test": 0.2388
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7684,
+      "f1_test": 0.2689
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.7699,
+      "f1_test": 0.3314
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.796,
+      "f1_test": 0.3284
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7822,
+      "f1_test": 0.3071
+    }
+  },
+  "CKD": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.5338,
+      "f1_test": 0.0583
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.7083,
+      "f1_test": 0.0825
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.65,
+      "f1_test": 0.0482
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.5007,
+      "f1_test": 0.0462
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.6246,
+      "f1_test": 0.0816
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.708,
+      "f1_test": 0.1146
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.6846,
+      "f1_test": 0.0925
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.6302,
+      "f1_test": 0.0882
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.68,
+      "f1_test": 0.1487
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.7159,
+      "f1_test": 0.1707
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.7307,
+      "f1_test": 0.1631
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.671,
+      "f1_test": 0.1424
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.766,
+      "f1_test": 0.3191
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.7811,
+      "f1_test": 0.3439
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.7837,
+      "f1_test": 0.3455
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.7751,
+      "f1_test": 0.3531
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7682,
+      "f1_test": 0.3895
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.7703,
+      "f1_test": 0.3976
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.7912,
+      "f1_test": 0.4137
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7766,
+      "f1_test": 0.3972
+    }
+  },
+  "AKI": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.6875,
+      "f1_test": 0.1793
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.6564,
+      "f1_test": 0.1702
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.7049,
+      "f1_test": 0.1915
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.6695,
+      "f1_test": 0.1848
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.6554,
+      "f1_test": 0.22
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.6464,
+      "f1_test": 0.22
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.6979,
+      "f1_test": 0.2456
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.6665,
+      "f1_test": 0.2293
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.6858,
+      "f1_test": 0.3089
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.6587,
+      "f1_test": 0.3073
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.709,
+      "f1_test": 0.3351
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.6911,
+      "f1_test": 0.3152
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.7217,
+      "f1_test": 0.4343
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.6946,
+      "f1_test": 0.4457
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.7341,
+      "f1_test": 0.4622
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.7248,
+      "f1_test": 0.4533
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7377,
+      "f1_test": 0.4991
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.7069,
+      "f1_test": 0.4962
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.745,
+      "f1_test": 0.5033
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7439,
+      "f1_test": 0.5048
+    }
+  },
+  "Liver Fibrosis/Cirrhosis": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.7031,
+      "f1_test": 0.033
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.67,
+      "f1_test": 0.0247
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.7155,
+      "f1_test": 0.0498
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.6511,
+      "f1_test": 0.0256
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.7483,
+      "f1_test": 0.0627
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.7369,
+      "f1_test": 0.0418
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.7513,
+      "f1_test": 0.1538
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.6835,
+      "f1_test": 0.098
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.7212,
+      "f1_test": 0.0599
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.7045,
+      "f1_test": 0.0489
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.7446,
+      "f1_test": 0.0947
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.6825,
+      "f1_test": 0.0741
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.7131,
+      "f1_test": 0.0971
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.7115,
+      "f1_test": 0.082
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.7298,
+      "f1_test": 0.1245
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.6958,
+      "f1_test": 0.1161
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.6991,
+      "f1_test": 0.1152
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.726,
+      "f1_test": 0.1284
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.7271,
+      "f1_test": 0.1255
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.6713,
+      "f1_test": 0.1063
+    }
+  },
+  "MASLD/MASH": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.6023,
+      "f1_test": 0.0109
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.5119,
+      "f1_test": 0.0084
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.5775,
+      "f1_test": 0.0156
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.6205,
+      "f1_test": 0.0235
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.6574,
+      "f1_test": 0.069
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.631,
+      "f1_test": 0.1379
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.5821,
+      "f1_test": 0.0193
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.5809,
+      "f1_test": 0.0164
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.7402,
+      "f1_test": 0.087
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.6389,
+      "f1_test": 0.0748
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.6487,
+      "f1_test": 0.0226
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.5234,
+      "f1_test": 0.0137
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.7008,
+      "f1_test": 0.0899
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.7413,
+      "f1_test": 0.0876
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.7449,
+      "f1_test": 0.0851
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.7122,
+      "f1_test": 0.0741
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7054,
+      "f1_test": 0.0923
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.7911,
+      "f1_test": 0.1368
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.7863,
+      "f1_test": 0.0749
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7601,
+      "f1_test": 0.069
+    }
+  },
+  "HCC": {},
+  "Non-DM Neuropathy": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.6347,
+      "f1_test": 0.0289
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.6669,
+      "f1_test": 0.0435
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.6571,
+      "f1_test": 0.0392
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.5923,
+      "f1_test": 0.038
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.6033,
+      "f1_test": 0.0488
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.6467,
+      "f1_test": 0.08
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.6653,
+      "f1_test": 0.0678
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.6395,
+      "f1_test": 0.0714
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.6402,
+      "f1_test": 0.0825
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.682,
+      "f1_test": 0.1297
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.7039,
+      "f1_test": 0.106
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.6528,
+      "f1_test": 0.0873
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.7137,
+      "f1_test": 0.1743
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.7168,
+      "f1_test": 0.1994
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.7231,
+      "f1_test": 0.1833
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.7123,
+      "f1_test": 0.1676
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7316,
+      "f1_test": 0.224
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.7288,
+      "f1_test": 0.2455
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.7389,
+      "f1_test": 0.2338
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7268,
+      "f1_test": 0.2151
+    }
+  },
+  "DPN": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.6291,
+      "f1_test": 0.043
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.5919,
+      "f1_test": 0.0479
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.6713,
+      "f1_test": 0.0556
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.6552,
+      "f1_test": 0.0471
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.6653,
+      "f1_test": 0.0706
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.6181,
+      "f1_test": 0.0886
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.7018,
+      "f1_test": 0.0878
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.6693,
+      "f1_test": 0.0711
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.6876,
+      "f1_test": 0.1061
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.6989,
+      "f1_test": 0.1384
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.7302,
+      "f1_test": 0.1275
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.7396,
+      "f1_test": 0.1356
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.7388,
+      "f1_test": 0.2263
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.7305,
+      "f1_test": 0.2488
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.7536,
+      "f1_test": 0.2504
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.7479,
+      "f1_test": 0.2367
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7701,
+      "f1_test": 0.3077
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.754,
+      "f1_test": 0.3182
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.7805,
+      "f1_test": 0.3215
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7745,
+      "f1_test": 0.305
+    }
+  },
+  "Diabetic Retinopathy": {
+    "Decision Tree (3yr)": {
+      "auc_test": 0.6704,
+      "f1_test": 0.1333
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.83,
+      "f1_test": 0.1667
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.7954,
+      "f1_test": 0.0341
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.7697,
+      "f1_test": 0.0267
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7841,
+      "f1_test": 0.1176
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.8681,
+      "f1_test": 0.2105
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.8489,
+      "f1_test": 0.1739
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7467,
+      "f1_test": 0.1111
+    }
+  },
+  "Glaucoma": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.5474,
+      "f1_test": 0.0367
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.6889,
+      "f1_test": 0.0307
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.752,
+      "f1_test": 0.0408
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.725,
+      "f1_test": 0.1176
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.7035,
+      "f1_test": 0.0525
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.6738,
+      "f1_test": 0.05
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.7038,
+      "f1_test": 0.0455
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.6931,
+      "f1_test": 0.0538
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.6254,
+      "f1_test": 0.0442
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.6695,
+      "f1_test": 0.0702
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.6899,
+      "f1_test": 0.0857
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.6831,
+      "f1_test": 0.1176
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.7131,
+      "f1_test": 0.0921
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.6789,
+      "f1_test": 0.0904
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.7126,
+      "f1_test": 0.1192
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.6929,
+      "f1_test": 0.0891
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.6973,
+      "f1_test": 0.1048
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.7091,
+      "f1_test": 0.1116
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.7319,
+      "f1_test": 0.1279
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7173,
+      "f1_test": 0.122
+    }
+  },
+  "Cataract": {},
+  "Obesity": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.5917,
+      "f1_test": 0.0164
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.7588,
+      "f1_test": 0.0526
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.761,
+      "f1_test": 0.0526
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.755,
+      "f1_test": 0.0383
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.7345,
+      "f1_test": 0.069
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.7758,
+      "f1_test": 0.0826
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.788,
+      "f1_test": 0.0733
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.7099,
+      "f1_test": 0.0714
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.6433,
+      "f1_test": 0.0619
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.7323,
+      "f1_test": 0.1132
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.7255,
+      "f1_test": 0.0751
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.638,
+      "f1_test": 0.1111
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.7615,
+      "f1_test": 0.1734
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.744,
+      "f1_test": 0.1913
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.7654,
+      "f1_test": 0.1737
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.7163,
+      "f1_test": 0.1831
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7899,
+      "f1_test": 0.2353
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.7886,
+      "f1_test": 0.2782
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.799,
+      "f1_test": 0.2811
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7639,
+      "f1_test": 0.2574
+    }
+  },
+  "Hypothyroidism": {
+    "Decision Tree (1yr)": {
+      "auc_test": 0.5784,
+      "f1_test": 0.009
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.6779,
+      "f1_test": 0.0176
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.7463,
+      "f1_test": 0.0606
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.6982,
+      "f1_test": 0.0175
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.7664,
+      "f1_test": 0.0561
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.7323,
+      "f1_test": 0.1639
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.8018,
+      "f1_test": 0.1013
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.7479,
+      "f1_test": 0.0829
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7277,
+      "f1_test": 0.1
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.7762,
+      "f1_test": 0.1519
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.807,
+      "f1_test": 0.1548
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7772,
+      "f1_test": 0.1024
+    }
+  },
+  "Osteoporosis": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.683,
+      "f1_test": 0.03
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.7567,
+      "f1_test": 0.067
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.7709,
+      "f1_test": 0.0475
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.738,
+      "f1_test": 0.0714
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.6988,
+      "f1_test": 0.037
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.7385,
+      "f1_test": 0.08
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.7751,
+      "f1_test": 0.0657
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.7548,
+      "f1_test": 0.0917
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.7009,
+      "f1_test": 0.048
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.7555,
+      "f1_test": 0.0732
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.741,
+      "f1_test": 0.0576
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.7179,
+      "f1_test": 0.1034
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.7534,
+      "f1_test": 0.1135
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.7846,
+      "f1_test": 0.1514
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.7819,
+      "f1_test": 0.1313
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.7381,
+      "f1_test": 0.1226
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7592,
+      "f1_test": 0.1411
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.7796,
+      "f1_test": 0.1597
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.7823,
+      "f1_test": 0.1532
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7335,
+      "f1_test": 0.1467
+    }
+  },
+  "Osteoarthritis": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.6494,
+      "f1_test": 0.0526
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.6107,
+      "f1_test": 0.0459
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.6746,
+      "f1_test": 0.0748
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.6678,
+      "f1_test": 0.0696
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.6884,
+      "f1_test": 0.0795
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.6388,
+      "f1_test": 0.0877
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.6814,
+      "f1_test": 0.1154
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.6674,
+      "f1_test": 0.0932
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.693,
+      "f1_test": 0.1222
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.6731,
+      "f1_test": 0.1235
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.7087,
+      "f1_test": 0.1506
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.6861,
+      "f1_test": 0.1379
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.7301,
+      "f1_test": 0.219
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.7107,
+      "f1_test": 0.1988
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.7372,
+      "f1_test": 0.2282
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.7327,
+      "f1_test": 0.2296
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7197,
+      "f1_test": 0.2418
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.7174,
+      "f1_test": 0.2331
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.7489,
+      "f1_test": 0.2632
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7395,
+      "f1_test": 0.2601
+    }
+  },
+  "Arthropathy": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.655,
+      "f1_test": 0.0109
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.7406,
+      "f1_test": 0.0238
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.7635,
+      "f1_test": 0.0198
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.7327,
+      "f1_test": 0.0128
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.5997,
+      "f1_test": 0.0104
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.7289,
+      "f1_test": 0.0339
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.6999,
+      "f1_test": 0.0385
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.6734,
+      "f1_test": 0.0645
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.6527,
+      "f1_test": 0.0377
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.7186,
+      "f1_test": 0.1
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.6576,
+      "f1_test": 0.0816
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.6338,
+      "f1_test": 0.0741
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.5916,
+      "f1_test": 0.0381
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.6165,
+      "f1_test": 0.0851
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.672,
+      "f1_test": 0.1081
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.6167,
+      "f1_test": 0.0597
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7072,
+      "f1_test": 0.0797
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.713,
+      "f1_test": 0.1463
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.7249,
+      "f1_test": 0.0755
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.6725,
+      "f1_test": 0.0968
+    }
+  },
+  "Cervical Spondylosis": {
+    "Decision Tree (6mo)": {
+      "auc_test": 0.6706,
+      "f1_test": 0.0145
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.5879,
+      "f1_test": 0.0465
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.5437,
+      "f1_test": 0.0124
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.4409,
+      "f1_test": 0.1111
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.4915,
+      "f1_test": 0.125
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.6007,
+      "f1_test": 0.0588
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.5161,
+      "f1_test": 0.1333
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.5918,
+      "f1_test": 0.1176
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.5106,
+      "f1_test": 0.0216
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.6009,
+      "f1_test": 0.0383
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.6034,
+      "f1_test": 0.0588
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.6154,
+      "f1_test": 0.0615
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.6447,
+      "f1_test": 0.069
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.6623,
+      "f1_test": 0.0775
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.6706,
+      "f1_test": 0.1026
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.6621,
+      "f1_test": 0.125
+    }
+  },
+  "Anxiety": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.6098,
+      "f1_test": 0.0503
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.565,
+      "f1_test": 0.0862
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.5804,
+      "f1_test": 0.0679
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.5638,
+      "f1_test": 0.0575
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.6602,
+      "f1_test": 0.0891
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.5833,
+      "f1_test": 0.1031
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.621,
+      "f1_test": 0.1018
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.5964,
+      "f1_test": 0.0857
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.6697,
+      "f1_test": 0.1475
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.6455,
+      "f1_test": 0.1425
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.6927,
+      "f1_test": 0.1575
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.6658,
+      "f1_test": 0.1481
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.6855,
+      "f1_test": 0.2235
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.6869,
+      "f1_test": 0.2248
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.7109,
+      "f1_test": 0.2342
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.6875,
+      "f1_test": 0.2236
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7217,
+      "f1_test": 0.2641
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.7162,
+      "f1_test": 0.2727
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.7255,
+      "f1_test": 0.2725
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7084,
+      "f1_test": 0.2682
+    }
+  },
+  "Depression": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.6019,
+      "f1_test": 0.0677
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.5832,
+      "f1_test": 0.0797
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.5861,
+      "f1_test": 0.0826
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.5552,
+      "f1_test": 0.0756
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.5934,
+      "f1_test": 0.0792
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.5988,
+      "f1_test": 0.0879
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.6128,
+      "f1_test": 0.0878
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.603,
+      "f1_test": 0.0932
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.6619,
+      "f1_test": 0.1456
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.605,
+      "f1_test": 0.1233
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.6559,
+      "f1_test": 0.1488
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.6471,
+      "f1_test": 0.1396
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.6761,
+      "f1_test": 0.229
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.6742,
+      "f1_test": 0.2381
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.6935,
+      "f1_test": 0.2478
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.6689,
+      "f1_test": 0.2353
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.6989,
+      "f1_test": 0.2818
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.6902,
+      "f1_test": 0.2771
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.7071,
+      "f1_test": 0.2925
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.7014,
+      "f1_test": 0.2881
+    }
+  },
+  "Cancer": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.6666,
+      "f1_test": 0.0649
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.6661,
+      "f1_test": 0.0474
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.7106,
+      "f1_test": 0.0784
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.6641,
+      "f1_test": 0.0693
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.6963,
+      "f1_test": 0.0833
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.6476,
+      "f1_test": 0.073
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.7153,
+      "f1_test": 0.1264
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.6969,
+      "f1_test": 0.1111
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.6964,
+      "f1_test": 0.1286
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.6359,
+      "f1_test": 0.1145
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.7201,
+      "f1_test": 0.165
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.6817,
+      "f1_test": 0.1429
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.7076,
+      "f1_test": 0.2023
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.656,
+      "f1_test": 0.1689
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.728,
+      "f1_test": 0.2299
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.6901,
+      "f1_test": 0.2148
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7183,
+      "f1_test": 0.2498
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.673,
+      "f1_test": 0.237
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.741,
+      "f1_test": 0.2837
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.706,
+      "f1_test": 0.2646
+    }
+  },
+  "Psoriasis": {
+    "Decision Tree (6mo)": {
+      "auc_test": 0.614,
+      "f1_test": 0.0045
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.7377,
+      "f1_test": 0.009
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.7624,
+      "f1_test": 0.0104
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.8358,
+      "f1_test": 0.0189
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.6567,
+      "f1_test": 0.0085
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.6207,
+      "f1_test": 0.0096
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.7634,
+      "f1_test": 0.0289
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.811,
+      "f1_test": 0.0396
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.6791,
+      "f1_test": 0.0168
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.5875,
+      "f1_test": 0.0142
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.6723,
+      "f1_test": 0.0222
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.6458,
+      "f1_test": 0.0625
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.6159,
+      "f1_test": 0.0161
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.5698,
+      "f1_test": 0.0155
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.6548,
+      "f1_test": 0.0465
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.678,
+      "f1_test": 0.08
+    }
+  },
+  "Eczema": {
+    "Decision Tree (3yr)": {
+      "auc_test": 0.5315,
+      "f1_test": 0.0303
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.5161,
+      "f1_test": 0.1818
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.4863,
+      "f1_test": 0.0062
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.4718,
+      "f1_test": 0.0061
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.4887,
+      "f1_test": 0.0196
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.6516,
+      "f1_test": 0.1429
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.6069,
+      "f1_test": 0.069
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.6055,
+      "f1_test": 0.0339
+    }
+  },
+  "IBS": {
+    "Decision Tree (1yr)": {
+      "auc_test": 0.6402,
+      "f1_test": 0.0282
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.7332,
+      "f1_test": 0.0267
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.612,
+      "f1_test": 0.0142
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.5053,
+      "f1_test": 0.0112
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.6141,
+      "f1_test": 0.0351
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.6902,
+      "f1_test": 0.0332
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.6427,
+      "f1_test": 0.0606
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.5418,
+      "f1_test": 0.0952
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.5687,
+      "f1_test": 0.0207
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.7089,
+      "f1_test": 0.0578
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.6333,
+      "f1_test": 0.0741
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.5147,
+      "f1_test": 0.0385
+    }
+  },
+  "Deafness": {
+    "Decision Tree (3mo)": {
+      "auc_test": 0.7095,
+      "f1_test": 0.0417
+    },
+    "Logistic Regression (3mo)": {
+      "auc_test": 0.6678,
+      "f1_test": 0.0167
+    },
+    "Random Forest (3mo)": {
+      "auc_test": 0.7123,
+      "f1_test": 0.0126
+    },
+    "XGBoost (3mo)": {
+      "auc_test": 0.6722,
+      "f1_test": 0.0187
+    },
+    "Decision Tree (6mo)": {
+      "auc_test": 0.6992,
+      "f1_test": 0.0164
+    },
+    "Logistic Regression (6mo)": {
+      "auc_test": 0.7137,
+      "f1_test": 0.0455
+    },
+    "Random Forest (6mo)": {
+      "auc_test": 0.7503,
+      "f1_test": 0.0192
+    },
+    "XGBoost (6mo)": {
+      "auc_test": 0.7054,
+      "f1_test": 0.0571
+    },
+    "Decision Tree (1yr)": {
+      "auc_test": 0.5804,
+      "f1_test": 0.0203
+    },
+    "Logistic Regression (1yr)": {
+      "auc_test": 0.6466,
+      "f1_test": 0.0351
+    },
+    "Random Forest (1yr)": {
+      "auc_test": 0.6317,
+      "f1_test": 0.03
+    },
+    "XGBoost (1yr)": {
+      "auc_test": 0.6056,
+      "f1_test": 0.0178
+    },
+    "Decision Tree (3yr)": {
+      "auc_test": 0.6275,
+      "f1_test": 0.0456
+    },
+    "Logistic Regression (3yr)": {
+      "auc_test": 0.735,
+      "f1_test": 0.0672
+    },
+    "Random Forest (3yr)": {
+      "auc_test": 0.8109,
+      "f1_test": 0.1273
+    },
+    "XGBoost (3yr)": {
+      "auc_test": 0.7788,
+      "f1_test": 0.1087
+    },
+    "Decision Tree (5yr)": {
+      "auc_test": 0.7731,
+      "f1_test": 0.0997
+    },
+    "Logistic Regression (5yr)": {
+      "auc_test": 0.7561,
+      "f1_test": 0.0822
+    },
+    "Random Forest (5yr)": {
+      "auc_test": 0.8386,
+      "f1_test": 0.1356
+    },
+    "XGBoost (5yr)": {
+      "auc_test": 0.8227,
+      "f1_test": 0.12
+    }
+  }
+}
